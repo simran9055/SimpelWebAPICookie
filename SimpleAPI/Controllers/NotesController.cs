@@ -32,17 +32,17 @@ namespace SimpleAPI.Controllers
         }
 
         [Authorize]
-        public string Post([FromBody]User user)
+        public HttpResponseMessage Post([FromBody]User user)
         {
             var resp = new HttpResponseMessage();
 
-            var cookie = new CookieHeaderValue("session-id", "2342354235");
+            var cookie = new CookieHeaderValue("session-id", "12345");
             cookie.Expires = DateTimeOffset.Now.AddDays(1);
             cookie.Domain = Request.RequestUri.Host;
-            cookie.Path = "/dfdsgfsfsd";
+            cookie.Path = "/";
 
             resp.Headers.AddCookies(new CookieHeaderValue[] { cookie });
-            return user.Username;
+            return resp;
         }
         
 

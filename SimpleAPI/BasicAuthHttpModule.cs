@@ -29,7 +29,7 @@ namespace SimpleAPI
 
         // TODO: Here is where you would validate the username and password.
         private static bool CheckPassword(string username, string password)
-        {
+        {       
             return username == "user" && password == "password";
         }
 
@@ -66,6 +66,7 @@ namespace SimpleAPI
         {
             var request = HttpContext.Current.Request;
             var authHeader = request.Headers["Authorization"];
+            var cookieHeader = request.Headers["Cookie"];
             if (authHeader != null)
             {
                 var authHeaderVal = AuthenticationHeaderValue.Parse(authHeader);

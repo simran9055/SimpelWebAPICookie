@@ -8,3 +8,13 @@ C:\Users\jassi\Desktop\ASP MVC\Pragmatic\SimpleApp\SimpleApp\bin\Debug\EntityFra
 C:\Users\jassi\Desktop\ASP MVC\Pragmatic\SimpleApp\SimpleApp\obj\Debug\SimpleApp.csprojResolveAssemblyReference.cache
 C:\Users\jassi\Desktop\ASP MVC\Pragmatic\SimpleApp\SimpleApp\obj\Debug\SimpleApp.dll
 C:\Users\jassi\Desktop\ASP MVC\Pragmatic\SimpleApp\SimpleApp\obj\Debug\SimpleApp.pdb
+C:\Users\ssingh\Desktop\SimpleApp-WebAPI-master\SimpleApp-WebAPI-master\SimpleApp\bin\Debug\SimpleApp.dll.config
+C:\Users\ssingh\Desktop\SimpleApp-WebAPI-master\SimpleApp-WebAPI-master\SimpleApp\bin\Debug\SimpleApp.dll
+C:\Users\ssingh\Desktop\SimpleApp-WebAPI-master\SimpleApp-WebAPI-master\SimpleApp\bin\Debug\SimpleApp.pdb
+C:\Users\ssingh\Desktop\SimpleApp-WebAPI-master\SimpleApp-WebAPI-master\SimpleApp\bin\Debug\EntityFramework.dll
+C:\Users\ssingh\Desktop\SimpleApp-WebAPI-master\SimpleApp-WebAPI-master\SimpleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ssingh\Desktop\SimpleApp-WebAPI-master\SimpleApp-WebAPI-master\SimpleApp\bin\Debug\EntityFramework.xml
+C:\Users\ssingh\Desktop\SimpleApp-WebAPI-master\SimpleApp-WebAPI-master\SimpleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ssingh\Desktop\SimpleApp-WebAPI-master\SimpleApp-WebAPI-master\SimpleApp\obj\Debug\SimpleApp.csprojResolveAssemblyReference.cache
+C:\Users\ssingh\Desktop\SimpleApp-WebAPI-master\SimpleApp-WebAPI-master\SimpleApp\obj\Debug\SimpleApp.dll
+C:\Users\ssingh\Desktop\SimpleApp-WebAPI-master\SimpleApp-WebAPI-master\SimpleApp\obj\Debug\SimpleApp.pdb
