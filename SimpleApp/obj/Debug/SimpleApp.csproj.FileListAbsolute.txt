@@ -1,0 +1,10 @@
+C:\Users\jassi\Desktop\ASP MVC\Pragmatic\SimpleApp\SimpleApp\bin\Debug\SimpleApp.dll.config
+C:\Users\jassi\Desktop\ASP MVC\Pragmatic\SimpleApp\SimpleApp\bin\Debug\SimpleApp.dll
+C:\Users\jassi\Desktop\ASP MVC\Pragmatic\SimpleApp\SimpleApp\bin\Debug\SimpleApp.pdb
+C:\Users\jassi\Desktop\ASP MVC\Pragmatic\SimpleApp\SimpleApp\bin\Debug\EntityFramework.dll
+C:\Users\jassi\Desktop\ASP MVC\Pragmatic\SimpleApp\SimpleApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jassi\Desktop\ASP MVC\Pragmatic\SimpleApp\SimpleApp\bin\Debug\EntityFramework.xml
+C:\Users\jassi\Desktop\ASP MVC\Pragmatic\SimpleApp\SimpleApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jassi\Desktop\ASP MVC\Pragmatic\SimpleApp\SimpleApp\obj\Debug\SimpleApp.csprojResolveAssemblyReference.cache
+C:\Users\jassi\Desktop\ASP MVC\Pragmatic\SimpleApp\SimpleApp\obj\Debug\SimpleApp.dll
+C:\Users\jassi\Desktop\ASP MVC\Pragmatic\SimpleApp\SimpleApp\obj\Debug\SimpleApp.pdb
